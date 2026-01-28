@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Subly - Smart Subscription & Document Tracker",
+  "description": "An advanced subscription manager with AI-powered email syncing, document vault, and expense analytics to help you save money and stay organized.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
